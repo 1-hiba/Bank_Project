@@ -85,7 +85,7 @@ def animation():
     print("    ░     ▒ ░▒░ ░ ░ ░  ░  ░▒ ░ ▒░ ▒ ░░ ░░   ░ ▒░")
     print("  ░       ░  ░░ ░   ░     ░░   ░  ▒ ░   ░   ░ ░ ")
     print("          ░  ░  ░   ░  ░   ░      ░           ░ ")
-    print("\033[91m  Réalisée par : Dounia Benmoussa et Hiba Echia\033[00m")
+    print("\033[91m  Réalisée par : Dounia Benmoussa et Hiba Echchaia\033[00m")
 
     #Affiche le message pendant 5 secondes
     time.sleep(5)
